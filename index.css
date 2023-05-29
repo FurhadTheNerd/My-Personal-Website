@@ -1,19 +1,23 @@
 /* Twinni was here, again, the founding father of this css file ;p */
 
 
-/* this makes the title headers orange. */
+/* this makes the title headers B R O W N. */
 h2 {
-    color: orange;
+    color: #BE7145;
 }
 
 /* this makes the background a dark grey and centers + aligns all the text. */
 body {
-    background-color: #1e2124 ;
+    background-color: #171717 ;
     max-width: 500px;
     margin: auto;
     text-align: center;
   } 
 
+/* timezone clock colour thingy */
+.timed {
+  color: #BE7145;
+  }
 
 /* this makes the body text all white */
 p {
@@ -24,20 +28,20 @@ p {
 /* don't ask me exactly how this works, because i don't know! */
 #link {
     text-decoration: none;
-    box-shadow: inset 0 0 0 0 orange;
-    color: orange;
+    box-shadow: inset 0 0 0 0 #4099FF;
+    color: #C9C9C9;
     margin: 0 -.25rem;
     padding: 0 .25rem;
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
 #link:hover {
-    box-shadow: inset 300px 0 0 0 orange;
+    box-shadow: inset 300px 0 0 0 #4099FF;
     color: black;
 }
 
 /* this makes the socials text the "twitter blue," and not the subscription service, silly :p */
 
 #socials {
-    color: #1DA1F2;
+    color: #BE7145;
 }
