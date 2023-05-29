@@ -6,3 +6,4 @@ Made with my horrible html skills, now i have something so my friends won't FLUF
 
 # Shout out to
 [twinni](https://github.com/TwinniDev) for [implementing css](https://github.com/FurhadTheNerd/My-Personal-Website/pull/1)
+[MeFinity](https://github.com/MeFinity) for inspiring me to add my timezone's clock
