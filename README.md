@@ -5,6 +5,6 @@ Made with my horrible html skills, now i have something so my friends won't FLUF
 [You can check out the changelogs in here](https://raw.githubusercontent.com/FurhadTheNerd/My-Personal-Website/main/ChangeLogs.txt) they grow up so fasssssst 😭😭😭
 
 # Shout out to
-[twinni](https://github.com/TwinniDev) for [implementing css](https://github.com/FurhadTheNerd/My-Personal-Website/pull/1)
+[twinni](https://github.com/TwinniDev) for [implementing css](https://github.com/FurhadTheNerd/My-Personal-Website/pull/1) and fixing some grammatical erros. 
 
-[MeFinity](https://github.com/MeFinity) for inspiring me to add my timezone's clock
+[MeFinity](https://github.com/MeFinity) for inspiring me to add my timezone's clock. 
