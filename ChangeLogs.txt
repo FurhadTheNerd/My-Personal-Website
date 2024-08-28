@@ -3,3 +3,10 @@ the website got a massive design reboot all thanks to twinni.
 
 2- 2023-05-29
 made the website much more forward and simpler, added a clock that shows the time in my timezone, added my youtube channel, removed all the useless stuff, added a favicon icon, and redesigned the css to look much less like pornhub. 
+
+3- 2024-08-28
+"removed discord, youtube, and twitter from the website as they got scheduled for deletion
+renamed website to webpage
+removed fabicon because (discord hosting moment)
+changed some descriptions
+added a link to my matrix profile"
